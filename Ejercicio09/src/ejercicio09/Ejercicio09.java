@@ -7,5 +7,6 @@ public class Ejercicio09 {
         int var4 = 50;
         boolean respuesta = var1 + var2 * var3 >= var4;
         System.out.println("La respuesta es:" + respuesta);
+        //Autor: Jean Carlos Analizado y corregido
     }
 }
