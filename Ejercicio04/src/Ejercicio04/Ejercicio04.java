@@ -1,7 +1,5 @@
 package Ejercicio04;
-
 public class Ejercicio04 {
-
     public static void main(String[] args) {
         //Solución a la problemática
         int var1 = 20;
@@ -11,6 +9,6 @@ public class Ejercicio04 {
         int resultado = var1 / (var2 + var3) + var4;
         boolean resultadofinal = resultado >= var3;
         System.out.println("Resultado final es: "+resultadofinal);
+        //Autor: Pedro
     }
-
 }
