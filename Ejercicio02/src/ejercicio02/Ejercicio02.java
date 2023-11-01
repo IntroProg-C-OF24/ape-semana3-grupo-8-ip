@@ -7,6 +7,7 @@ public class Ejercicio02 {
         double respuesta;
         respuesta = Math.pow(var1,2)+ var2;
         System.out.println("La respuesta es:" + respuesta);
-        //Autor JEAN CARLOS  REALIZADO Y CORREGIDO
+        //Autor JEAN CARLOS  REALIZADO Y CORREGIDOgit status
+        
     }
 }
